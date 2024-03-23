@@ -22,7 +22,7 @@ This has been tested on a MacBook Pro 15,1 on Fedora 39, but it should work in a
 
 ## Licence
 
-This project is under the GPL3 license. Read the [LICENCE](LICENCE.MD) for more.
+This project is under the GPL3 license. Read the [LICENSE](LICENSE.md) for more.
 
 ## Contribution
 
