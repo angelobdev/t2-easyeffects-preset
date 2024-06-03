@@ -2,7 +2,7 @@
 
 This is a preset for the EasyEffects app that improves the quality of the speaker for T2 Linux users.
 
-This has been tested on a MacBook Pro 15,1 on Fedora 39, but it should work in any other pipewire-based platform.
+This has been tested on a MacBook Pro 15,1 on Fedora 39 and Arch Linux, but it should work in any other pipewire-based platform.
 
 ## Installation
 
