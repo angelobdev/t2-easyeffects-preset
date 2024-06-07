@@ -8,7 +8,7 @@ It has been tested on a MacBook Pro 15,1 running Fedora 39 and Arch Linux, but i
 
 1. Install [EasyEffects](https://github.com/wwmm/easyeffects)
 
-2. Copy the [mbp.json](mbp.json) file in the `~/.config/easyeffects/output/` folder
+2. Copy the [mbp.json](mbp.json) file in the `~/.config/easyeffects/output/` directory
 
 3. Open EasyEffects, go the the `Pipewire` section (on top)
 
