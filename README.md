@@ -20,6 +20,8 @@ This has been tested on a MacBook Pro 15,1 on Fedora 39 and Arch Linux, but it s
 
 7. Enjoy!
 
+*NOTE:* Be sure that CALF and LSP plugins are installed!
+
 ## Licence
 
 This project is under the GPL3 license. Read the [LICENSE](LICENSE.md) for more.
