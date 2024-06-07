@@ -1,8 +1,8 @@
 # T2 MacBook Pro EasyEffects Preset
 
-This is a preset for the EasyEffects app that improves the quality of the speaker for T2 Linux users.
+This preset for the EasyEffects app enhances speaker quality for T2 Linux users. 
 
-This has been tested on a MacBook Pro 15,1 on Fedora 39 and Arch Linux, but it should work in any other pipewire-based platform.
+It has been tested on a MacBook Pro 15,1 running Fedora 39 and Arch Linux, but it should be compatible with any other pipewire-based platform.
 
 ## Installation
 
